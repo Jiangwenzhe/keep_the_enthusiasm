@@ -111,3 +111,17 @@ NaN - 0 // NaN
 
 * `+Infinity` 表示正无穷
 * `-Infinity` 表示负无穷
+
+###### 运算规则_
+
+`Infinity`大于一切数值，`-Infinity`小于一切数值。(除了`NaN`)
+
+```js
+Infinity > NaN // false
+-Infinity > NaN // false
+
+Infinity < NaN // false
+-Infinity < NaN // false
+```
+
+`Infinity`的四则运算符合无穷的数学计算规则
