@@ -125,3 +125,11 @@ Infinity < NaN // false
 ```
 
 `Infinity`的四则运算符合无穷的数学计算规则
+
+## 与数值有关的全局方法
+
+###### 1. `parseInt()` [Standard build-in Objects]
+
+* 这个`parseInt()`与`Number.parseInt()`有区别
+
+
