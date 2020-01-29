@@ -131,5 +131,3 @@ Infinity < NaN // false
 ###### 1. `parseInt()` [Standard build-in Objects]
 
 * 这个`parseInt()`与`Number.parseInt()`有区别
-
-
